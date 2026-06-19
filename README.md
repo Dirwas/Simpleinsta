@@ -22,10 +22,10 @@ Foodstagram adalah aplikasi berbagi kuliner Nusantara berbasis PHP dan MySQL.
 
 ## Cara Menjalankan
 
-1. Clone repository
+1. Link repository
 
 ```bash
-git clone https://github.com/username/foodstagram.git
+ https://dirwas.github.io/Simpleinsta/
 ```
 
 2. Pindahkan ke folder htdocs
