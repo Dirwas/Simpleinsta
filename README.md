@@ -1,2 +1,2 @@
-# Simpleinsta
+# Foodstagram
 Web
